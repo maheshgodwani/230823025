@@ -21,7 +21,7 @@ function App() {
       />
       <div className="story-footer">
         <img className="imag1" src="https://media.licdn.com/dms/image/D4D03AQGVl11fuDsJWQ/profile-displayphoto-shrink_200_200/0/1709208456970?e=2147483647&v=beta&t=6BzKtR0oFBrggQAI47Hf3w1LxHNWYsI8SpkV2Q8ixjw" alt="User Profile" />
-        <h3>it_s_Mori</h3>
+        <h3>MHS Patel</h3>
       </div>
     </div>
   </>
