@@ -29,7 +29,7 @@ const App = () => {
         {[...Array(20)].map((_, index) => ( // Create 20 Story components
           <Story
             key={index}
-            storyTitle={`Story ${index + 1}`}
+            storyTitle={` MHS Story ${index + 1}`}
             storyImage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3GBuo5fELJCr7nJ293kFWoKG4-0Lz0-M4Ww&usqp=CAU"
             profileImage="https://media.licdn.com/dms/image/D4D03AQGVl11fuDsJWQ/profile-displayphoto-shrink_200_200/0/1709208456970?e=2147483647&v=beta&t=6BzKtR0oFBrggQAI47Hf3w1LxHNWYsI8SpkV2Q8ixjw"
             />
