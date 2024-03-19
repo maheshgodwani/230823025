@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import Story from './Story.js';
+import Story from './story.js';
 import './App.css';
 
 function App() {
