@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+div.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu .story-container {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.scrollmenu .story-container:hover {
+  background-color: #777;
+}
