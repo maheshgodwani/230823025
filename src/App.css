@@ -37,9 +37,9 @@
   }
 }
 
-div.scrollmenu {
+/* div.scrollmenu {
   background-color: #333;
-  overflow: auto;
+  overflow-x: auto;
   white-space: nowrap;
 }
 
@@ -53,4 +53,4 @@ div.scrollmenu .story-container {
 
 div.scrollmenu .story-container:hover {
   background-color: #777;
-}
+} */
