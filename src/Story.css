@@ -28,6 +28,7 @@ body {
   display: inline-block;
   margin: 0 10px; /* Adjust margin */
   position: relative;
+  height: 243px;
 }
 
 .scrollmenu .story-footer {
